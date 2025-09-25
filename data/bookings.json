@@ -1,0 +1,66 @@
+[
+  {
+    "pnr": "034UA4",
+    "last_name": "Sharma",
+    "flight_id": "F101",
+    "status": "Scheduled",
+    "total_fare": 12450,
+    "cabin_class": "Economy",
+    "pax_adults": 1
+  },
+  {
+    "pnr": "GO08OL",
+    "first_name": "Vishal",
+    "last_name": "Suresh",
+    "flight_id": "F101",
+    "status": "Cancelled",
+    "total_fare": 12450,
+    "cabin_class": "Economy",
+    "pax_adults": 1,
+    "booked_at": "2025-09-23T04:13:56.484Z"
+  },
+  {
+    "pnr": "KTPTP4",
+    "first_name": "Vishal",
+    "last_name": "Suresh",
+    "flight_id": "F101",
+    "status": "Scheduled",
+    "total_fare": 12450,
+    "cabin_class": "Economy",
+    "pax_adults": 1,
+    "booked_at": "2025-09-23T04:33:12.478Z"
+  },
+  {
+    "pnr": "DZRDYL",
+    "first_name": "Amit",
+    "last_name": "Kumar",
+    "flight_id": "F101",
+    "status": "Cancelled",
+    "total_fare": 24900,
+    "cabin_class": "Economy",
+    "pax_adults": 2,
+    "booked_at": "2025-09-23T05:33:19.696Z"
+  },
+  {
+    "pnr": "VRC7RU",
+    "first_name": "Vishal",
+    "last_name": "S",
+    "flight_id": "F101",
+    "status": "Scheduled",
+    "total_fare": 12450,
+    "cabin_class": "Economy",
+    "pax_adults": 1,
+    "booked_at": "2025-09-23T06:03:38.121Z"
+  },
+  {
+    "pnr": "ARE0GU",
+    "first_name": "Vishal",
+    "last_name": "S",
+    "flight_id": "F101",
+    "status": "Scheduled",
+    "total_fare": 12450,
+    "cabin_class": "Economy",
+    "pax_adults": 1,
+    "booked_at": "2025-09-25T03:19:17.236Z"
+  }
+]

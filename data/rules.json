@@ -1,0 +1,10 @@
+[
+  {
+    "fare_family": "Economy",
+    "cancel_fee": 500
+  },
+  {
+    "fare_family": "Business",
+    "cancel_fee": 1000
+  }
+]
