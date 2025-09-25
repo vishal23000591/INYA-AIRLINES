@@ -1,0 +1,43 @@
+[
+  {
+    "entity": "origin",
+    "type": "location",
+    "examples": ["Bengaluru", "Delhi", "Mumbai", "BLR", "DEL"]
+  },
+  {
+    "entity": "destination",
+    "type": "location",
+    "examples": ["Delhi", "Bengaluru", "Mumbai", "DEL", "BLR"]
+  },
+  {
+    "entity": "date",
+    "type": "date",
+    "examples": ["tomorrow", "25th October", "2025-10-12"]
+  },
+  {
+    "entity": "pnr",
+    "type": "string",
+    "examples": ["ZX1AB2", "ABC123"]
+  },
+  {
+  "entity": "first_name",
+  "type": "string",
+  "examples": ["Vishal", "Rohit", "Anita"]
+}
+,
+  {
+    "entity": "last_name",
+    "type": "string",
+    "examples": ["Sharma", "Kumar", "Verma"]
+  },
+  {
+    "entity": "cabin",
+    "type": "string",
+    "examples": ["Economy", "Business"]
+  },
+  {
+    "entity": "adults",
+    "type": "number",
+    "examples": [1, 2, 3]
+  }
+]

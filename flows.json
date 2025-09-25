@@ -1,0 +1,23 @@
+[
+  {
+    "intent": "book_flight",
+    "responses": {
+      "en": "{message_en}",
+      "hi": "{message_hi}"
+    }
+  },
+  {
+    "intent": "check_status",
+    "responses": {
+      "en": "{message_en}",
+      "hi": "{message_hi}"
+    }
+  },
+  {
+    "intent": "cancel_booking",
+    "responses": {
+      "en": "{message_en}",
+      "hi": "{message_hi}"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "intent": "book_flight",
+    "examples": [
+      "Book a flight from {origin} to {destination} on {date}",
+      "I want to fly from {origin} to {destination}",
+      "बैंगलोर से दिल्ली की फ्लाइट बुक करो",
+      "दिल्ली से बैंगलोर जाने के लिए टिकट चाहिए"
+    ],
+    "webhook": "https://inya-airlines-1.onrender.com/book-flight"
+  },
+  {
+    "intent": "check_status",
+    "examples": [
+      "Check status for PNR {pnr}",
+      "What is my flight status?",
+      "मेरी फ्लाइट का स्टेटस बताओ",
+      "PNR {pnr} की जानकारी दो"
+    ],
+    "webhook": "https://inya-airlines-1.onrender.com/check-status"
+  },
+  {
+    "intent": "cancel_booking",
+    "examples": [
+      "Cancel my booking with PNR {pnr}",
+      "I want to cancel my flight",
+      "मेरी बुकिंग कैंसिल करो",
+      "PNR {pnr} की टिकट कैंसिल करें"
+    ],
+    "webhook": "https://inya-airlines-1.onrender.com/cancel-flight"
+  }
+]
