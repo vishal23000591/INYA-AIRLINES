@@ -1,43 +1,42 @@
 [
   {
-    "entity": "origin",
-    "type": "location",
-    "examples": ["Bengaluru", "Delhi", "Mumbai", "BLR", "DEL"]
+    "entity": "origin_iata",
+    "type": "string",
+    "examples": ["BLR", "DEL", "BOM", "DEL", "BLR"]
   },
   {
-    "entity": "destination",
-    "type": "location",
-    "examples": ["Delhi", "Bengaluru", "Mumbai", "DEL", "BLR"]
+    "entity": "destination_iata",
+    "type": "string",
+    "examples": ["DEL", "BLR", "BOM", "BLR"]
   },
   {
-    "entity": "date",
-    "type": "date",
-    "examples": ["tomorrow", "25th October", "2025-10-12"]
+    "entity": "depart_date",
+    "type": "string",
+    "examples": ["2025-10-12", "2025-09-25"]
   },
   {
     "entity": "pnr",
     "type": "string",
-    "examples": ["ZX1AB2", "ABC123"]
+    "examples": ["DZRDYL", "ABC123"]
   },
   {
-  "entity": "first_name",
-  "type": "string",
-  "examples": ["Vishal", "Rohit", "Anita"]
-}
-,
+    "entity": "first_name",
+    "type": "string",
+    "examples": ["Vishal", "Rohit", "Anita"]
+  },
   {
     "entity": "last_name",
     "type": "string",
-    "examples": ["Sharma", "Kumar", "Verma"]
+    "examples": ["Suresh", "Kumar", "Verma"]
   },
   {
-    "entity": "cabin",
+    "entity": "cabin_class",
     "type": "string",
     "examples": ["Economy", "Business"]
   },
   {
-    "entity": "adults",
+    "entity": "pax_adults",
     "type": "number",
-    "examples": [1, 2, 3]
+    "examples": [1, 2, 3, 4]
   }
 ]
