@@ -146,7 +146,7 @@ README.md
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Node.js with Express.js
 * JSON-based storage for flights, bookings, and rules
