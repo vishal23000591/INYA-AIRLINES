@@ -1,4 +1,4 @@
-# ✈️ INYA AI AIRLINES – Flight Booking API
+#  INYA AI AIRLINES – Flight Booking API ✈️
 
 INYA AIRLINES is a lightweight airline booking system. It allows users to book flights, check the status of their bookings, and cancel bookings with refund details.
 
@@ -6,7 +6,7 @@ Deployed on Render: [https://inya-airlines-1.onrender.com](https://inya-airlines
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Book flights by entering passenger details, origin, destination, date, and cabin class.
 * Check the status of your booking using a PNR.
@@ -38,7 +38,7 @@ README.md
 
 ---
 
-## ⚡ API Endpoints
+##  API Endpoints
 
 ### 1️⃣ Book Flight
 
@@ -154,7 +154,7 @@ README.md
 
 ---
 
-## 📌 Future Enhancements
+##   Future Enhancements
 
 * Add user authentication
 * Move storage from JSON files to MongoDB or PostgreSQL
@@ -163,8 +163,8 @@ README.md
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Built by Vishal (Pixel Pirates Team) for Inya Airlines Hackathon 🚀
+Built by Vishal (Pixel Pirates Team) for Inya Airlines Hackathon 
 
 ---
