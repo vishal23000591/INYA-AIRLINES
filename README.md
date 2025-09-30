@@ -168,12 +168,3 @@ README.md
 Built by Vishal (Pixel Pirates Team) for Inya Airlines Hackathon 🚀
 
 ---
-
-This version has:
-
-* **Normal text for headings, descriptions, and instructions** ✅
-* **Code blocks only for folder structure and JSON examples** ✅
-
-If you want, I can also make a **more compact single-page README under 150 lines** that looks very professional on GitHub.
-
-Do you want me to do that?
